@@ -1,16 +1,13 @@
 {
-	"file": "https://dl.dropboxusercontent.com/u/36962787/UpSet/movies.csv",
-	"name": "Online Movies Genres ",
+	"file": "https://github.com/Cajun-data/Upset-Plot-Data/blob/master/temp2.csv",
+	"name": "Proteoform Overlap ",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "integer", "index": 1, "name": "Release Date" },
-		{ "type": "float", "index": 19, "name": "Average Rating", "min": 1, "max": 5 },
-		{ "type": "integer", "index": 20, "name": "Times Watched" }
+		{ "type": "id", "index": 0, "name": "Proteoform" },
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 18 }
+		{ "format": "binary", "start": 2, "end": 8 }
 	]
 }
