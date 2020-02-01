@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/Cajun-data/Upset-Plot-Data/blob/master/temp2.csv",
+	"name": "Proteoform Overlap ",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Proteoform" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 8 }
+	]
+}
